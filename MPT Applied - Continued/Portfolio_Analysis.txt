@@ -1,0 +1,23 @@
+2019-08-09-09:11:39
+Analysis on 5 stocks from 2015-1-1 to 2019-08-09
+Minimum Variance Portfolio:
+                  9825
+Returns       0.057361
+Volatility    0.168388
+Sharpe Ratio  0.340647
+TSLA Weight   0.138529
+F Weight      0.262653
+GE Weight     0.175421
+AMZN Weight   0.384618
+FB Weight     0.038779
+
+Maximum Sharpe Ratio Portfolio:
+                  6429
+Returns       0.425732
+Volatility    0.244289
+Sharpe Ratio  1.742738
+TSLA Weight   0.710315
+F Weight      0.000554
+GE Weight     0.203343
+AMZN Weight   0.030251
+FB Weight     0.055538
