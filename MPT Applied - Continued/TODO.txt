@@ -1,0 +1,7 @@
+This is a TODO-file for what I want to further add to the project.
+
+1) Create simple algos for moving average (SMA, CMA, WMA)
+2) Pricing from VWAP, TWAP
+3) Something more with volume
+4) Some kind of arbitrage
+  - Would be cool to construct some kind of industry average 
