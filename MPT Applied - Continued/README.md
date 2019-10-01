@@ -1,8 +1,10 @@
-# MPT Applied
+# MPT Applied - Continued 
 
 MPT Applied is a Python application for optimizing portfolios using Modern Portfolio Theory (MPT) developed by Harry Markowitz.
 The application is based on Quandl for providing pricing info and is currently set to US Equity markets but can be modified to fit other markets, indexes and financial instruments. This also assumes a 0% risk free rate.
 This is not financial advice and is just for development purposes.
+
+#THIS IS A CONT OF MY FINAL PROJECT FOR CS50X 
 
 ## Usage
 
@@ -41,6 +43,7 @@ GE Weight     0.018920
 
 ## Author
 This application was developed as part of my final project for CS50x.
+The project was further developed during fall 2019 after completion of CS50.
 I want to thank Professor David Malan and the rest of the CS50 team for all their effort and contribution.
 
 👤 **Vetle Skeime Kostøl**
